@@ -37,7 +37,7 @@ Execute the program using runserver command.
 <center>
     <img src="logo.png" width="800" height="150">
 </center>
-</body>
+
 <h1 align="center">
     SLOT TIME TABLE - Mariya Asna (26018761)
 </h1>
